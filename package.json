@@ -1,0 +1,25 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00377723",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arbizu11/Parcial2_PW_SEC02_C2_2025_00377723.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Arbizu11/Parcial2_PW_SEC02_C2_2025_00377723/issues"
+  },
+  "homepage": "https://github.com/Arbizu11/Parcial2_PW_SEC02_C2_2025_00377723#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
